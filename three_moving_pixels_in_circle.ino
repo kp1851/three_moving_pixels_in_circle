@@ -8,8 +8,8 @@
 #include "FastLED.h"
 FASTLED_USING_NAMESPACE
 
-#define DATA_PIN 2
-#define NUM_LEDS 24
+#define DATA_PIN 2          //change
+#define NUM_LEDS 24         //change
 
 CRGB leds[NUM_LEDS];
 
